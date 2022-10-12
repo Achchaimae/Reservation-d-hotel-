@@ -27,7 +27,7 @@ body{
 	width: 50px;
 	border-radius:100%;}
 .title{
-	text-align: center;
+text-align: center;
 color:#ffec98;
 padding-top:2%;
 padding-left:20%;
@@ -75,13 +75,24 @@ legend{
 	min-height: 50vh;
 	top: 350px;
  }
- footer {
-	bottom: 0;
-	left: 0;
-	right: 0;
-    height: 80px;
-    width: 100%;
-    text-align: center;
-  background-color: orange;
-  color: white;
+ .img{
+	padding: 10vh;
+	max-height: 500%;
+	text-align: center;
+
  }
+ footer {
+	text-align: center;
+	padding: 2px;
+	background-color: orange;
+	color: white;}
+	.maison{
+		text-align: center;
+	}
+	button{
+		width: 10%;
+		border: 1;
+		border-color: aliceblue;
+		border-radius: 2em;
+		background-color:orange;
+	}
